@@ -1,0 +1,48 @@
+Login System
+
+Login System
+- Registrasi
+- login
+- session : . mekanisme penyimpanan informasi
+            ke dalam variabel agar bisa di gunakan
+            di LEBIH DARI SATU HALAMAN
+            . informasi disimpan di server
+            . $_SESSION
+            . session_start()
+- Cookie  : . informasi disimpan di browser/client
+            . mengenali user
+            . shopping cart
+            . personalisasi
+            . $_COOKIE
+            . setcookie()   
+
+
+Registrasi
+- tabel 'user'
+- enkripsi
+  password
+
+
+Pagination(Penghalamanan)
+
+   .LIMIT
+
+AJAX (Ansynchronous Javascript And XML)
+
+XMLHttpRequest()
+. Yaitu objek yang mengelola request menggunakan 
+teknik ajax
+
+ajax 
+. Javascript Dasar
+. DOM(Document Object Mobile)
+
+JQUERY
+
+
+Membuat PDF
+. Fitur bawaan browser
+. Library PHP
+  - FPDF
+  - mPDF
+  - DOMPDF
